@@ -23,7 +23,6 @@ Interactive elements like hover effects, buttons, and modals.
 # Technologies Used
 HTML5
 CSS
-JavaScript
 FontAwesome
 
 # Contributing
